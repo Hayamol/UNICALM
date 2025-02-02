@@ -64,8 +64,7 @@ For Software:The Stress Assessment Web Application is a simple tool designed to 
 ![Team](./kites%20team.jpg)
 
 ### Project Demo
-# Video
-Video Link - 
+# Video 
 [https://www.loom.com/share/788548e12af9476281cd2328d04f27a4?sid=3f0260ac-a40a-4a56-97a6-6a862b7ca8ff]
 
 *The video demonstrates how the project works.*
